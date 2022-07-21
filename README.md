@@ -17,7 +17,8 @@ Forget Gate
 Input Gate
 Outout Gate
 ```
-![lstm](https://user-images.githubusercontent.com/88109927/180088034-3dfe6fe4-46bf-4f98-8d4e-7ebda0e159a4.png)
+
+![lstm](https://user-images.githubusercontent.com/88109927/180194426-17348796-ea67-4e0d-8cd7-98813b26d8b1.png)
 
 # Bi-Directional LSTM
 Bi-LSTM or simply bidirectional LSTM is a successor of the above
